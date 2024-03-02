@@ -1,6 +1,6 @@
 ## 6A - Think Positive or Negative?
 
-Will::
+Will:
 
 
 <table>
@@ -237,3 +237,6 @@ e) Describir el futuro muy formalmente
 Como regla general, usa “will” para oraciones afirmativas y negativas sobre el futuro. Usa “will” para solicitudes también. Si deseas hacer una oferta o sugerencia con “I/we” (yo/nosotros), usa “shall” en forma de pregunta. Para declaraciones muy formales, 
 
 Especialmente para describir obligaciones, usa “shall”.
+
+Exercises:
+<iframe src="https://neki.is-a.dev/EnglishClassesExercises/Think-Positive-or-Negative-FTB-1.html" width="100%" height="600" frameborder="0"></iframe>
