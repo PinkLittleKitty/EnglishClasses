@@ -167,39 +167,39 @@ Choose the correct option:
 - [ ] is
 - [ ] have
 2.  ___ you finished your homework?
-- [ ] Have
+- [X] Have
 - [ ] Has
 - [ ] Is
 3. They ___ gone to a rock concert.
 - [ ] 's
 - [ ] 'es
-- [ ] 've
+- [X] 've
 4. ___ you been to japan?
 - [ ] Is
-- [ ] Have
+- [X] Have
 - [ ] Has
 5. We ___ never eaten Mexican food.
-- [ ] have
+- [X] have
 - [ ] has
 - [ ] are
 6. Andrea has ___ her umbrella.
 - [ ] forget
 - [ ] forgetting
-- [ ] forgotten
+- [X] forgotten
 7. ___ the sun come up?
 - [ ] Was
 - [ ] Have
-- [ ] Has
+- [X] Has
 8. The children ___ the lost puppy.
 - [ ] have find
 - [ ] is finding
-- [ ] have found
+- [X] have found
 9. She's been a vegetarian ___ three years.
 - [ ] since
-- [ ] for
+- [X] for
 - [ ] after
 10. I haven't worked ___ last december .
-- [ ] since
+- [X] since
 - [ ] for
 - [ ] by
 
@@ -210,29 +210,29 @@ Complete the sentences with For or Since:
 - [ ] since
  2. The cat hasn't eaten anything ___ yesterday.
 - [ ] for
-- [ ] since
+- [X] since
  3. Kim and Joey have been friends ___ three years.
-- [ ] for
+- [X] for
 - [ ] since
  4. Miss Thomas has taught at my school ___ 1975.
 - [ ] for
-- [ ] since
+- [X] since
  5. Guy has known Joanna ___ they were at primary school.
 - [ ] for
-- [ ] since
+- [X] since
  6. Have you seen her ___ she got married?
 - [ ] for
-- [ ] since
+- [X] since
  7. I haven't heard from my pen pal ___ a long time.
-- [ ] for
+- [X] for
 - [ ] since
  8. Haley has played the saxophone ___ she was 12.
 - [ ] for
-- [ ] since
+- [X] since
  9. It has rained without interruption ___ three 
  days.
-- [ ] for
+- [X] for
 - [ ] since 
  10. He's written to her every day ___ she left.
 - [ ] for
-- [ ] since
+- [X] since
