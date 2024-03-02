@@ -1,0 +1,34 @@
+title: "Clases de Inglés"
+author: "Santiago Fisela"
+description: "Esta es una página donde voy a poner mis clases de inglés, quizás alguien le son de utilidad."
+
+email: "santyfisela@neki.is-a.dev"
+twitter_username: "PinkLittleNeki"
+github_username: "PinkLittleKitty"
+linkedin_username: "santiago-fisela"
+
+#########################################################################################
+######### NO MODIFICAR #########
+#########################################################################################
+theme: "minima"
+
+rss: rss
+
+kramdown:
+  syntax_highlighter_opts:
+    disable: true
+    
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+titles_from_headings:
+  strip_title: true
+  collections: true
+
+defaults:
+  - scope:
+      path: ""
+      type: post
+    values:
+      tags: Other
