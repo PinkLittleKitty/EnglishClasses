@@ -1,5 +1,3 @@
-<script src="{{ '/js/quizlib.1.0.1.js' | relative_url }}"></script>
-
 ## 9B - Present Perfect
 
 The present perfect tense is a rather important tense in English, but it may be kinda difficult to wrap your head around it, mostly because in some languages it does not exist. Its structure is really simple, but some problems may come out when you use it.
@@ -238,22 +236,3 @@ Complete the sentences with For or Since:
  10. He's written to her every day ___ she left.
 - [ ] for
 - [X] since
-
-<div id="quiz"></div>
-
-<script>
-  const quiz = new Quiz(questions, '#quiz');
-
-  const questions = [
-    {
-      'q': 'Question 1?',
-      'options': ['True', 'False'],
-      'correctIndex': 0,
-    },
-    {
-       'q': 'Question 2?',
-       'options': ['A', 'B', 'C'],
-       'correctIndex': 1,    
-    }
-  ];
-</script>
