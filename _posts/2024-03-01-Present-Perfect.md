@@ -162,49 +162,7 @@ Examples:
 
 **Excercises**
 
-<iframe style="width:900px;height:600px" src="https://t.onlineexammaker.com/doexam/RaJLVVvqLQr.html"  seamless="seamless" scrolling="yes" frameborder="0" allowtransparency="true" allowfullscreen="false" ></iframe>
-
-Choose the correct option:
- 1. Lindsay ___ not been to france.
-- [X] has
-- [ ] is
-- [ ] have
-2.  ___ you finished your homework?
-- [X] Have
-- [ ] Has
-- [ ] Is
-3. They ___ gone to a rock concert.
-- [ ] 's
-- [ ] 'es
-- [X] 've
-4. ___ you been to japan?
-- [ ] Is
-- [X] Have
-- [ ] Has
-5. We ___ never eaten Mexican food.
-- [X] have
-- [ ] has
-- [ ] are
-6. Andrea has ___ her umbrella.
-- [ ] forget
-- [ ] forgetting
-- [X] forgotten
-7. ___ the sun come up?
-- [ ] Was
-- [ ] Have
-- [X] Has
-8. The children ___ the lost puppy.
-- [ ] have find
-- [ ] is finding
-- [X] have found
-9. She's been a vegetarian ___ three years.
-- [ ] since
-- [X] for
-- [ ] after
-10. I haven't worked ___ last december .
-- [X] since
-- [ ] for
-- [ ] by
+<iframe style="width:900px;height:600px" src="/_Exercises/Present-Perfect.html"  seamless="seamless" scrolling="yes" frameborder="0" allowtransparency="true" allowfullscreen="false" ></iframe>
 
 Complete the sentences with For or Since:
 

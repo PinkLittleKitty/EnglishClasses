@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Fill in the Blanks</title>
+<script>
+function checkAnswers() {
+  var answers = [
+    "has",
+    "Have",
+    "have",
+    "Have",
+    "have",
+    "forgotten",
+    "Has",
+    "have found",
+    "for",
+    "since"
+  ];
+  
+  var score = 0;
+  var feedback = "<h2>Feedback:</h2>";
+
+  for (var i = 1; i <= 10; i++) {
+    var userAnswer = document.getElementById("q" + i).value.trim();
+    var correctAnswer = answers[i - 1];
+    if (userAnswer.toLowerCase() === correctAnswer.toLowerCase()) {
+      score++;
+      feedback += "<p>Pregunta " + i + ": Correcto!</p>";
+    } else {
+      feedback += "<p>Pregunta " + i + ": Incorrecto. La respuesta correcta es '" + correctAnswer + "'.</p>";
+    }
+  }
+
+  feedback += "<h2>Nota: " + score + "/10</h2>";
+  document.getElementById("feedback").innerHTML = feedback;
+}
+</script>
+</head>
+<body>
+
+<h1>Fill in the blanks:</h1>
+
+<form>
+  <p>1. Lindsay <input type="text" id="q1"> not been to France.</p>
+  <p>2. <input type="text" id="q2"> you finished your homework?</p>
+  <p>3. They <input type="text" id="q3"> gone to a rock concert.</p>
+  <p>4. <input type="text" id="q4"> you been to Japan?</p>
+  <p>5. We <input type="text" id="q5"> never eaten Mexican food.</p>
+  <p>6. Andrea has <input type="text" id="q6"> her umbrella.</p>
+  <p>7. <input type="text" id="q7"> the sun come up?</p>
+  <p>8. The children <input type="text" id="q8"> the lost puppy.</p>
+  <p>9. She's been a vegetarian <input type="text" id="q9"> three years.</p>
+  <p>10. I haven't worked <input type="text" id="q10"> last December.</p>
+
+  <button type="button" onclick="checkAnswers()">Submit Answers</button>
+</form>
+
+<div id="feedback"></div>
+
+</body>
+</html>
