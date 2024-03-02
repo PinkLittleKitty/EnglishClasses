@@ -27,6 +27,7 @@ Examples:
 |-|We|have|not|played|football.|
 |?|Have|you||finished?||
 |?|Have|they||done|it?|
+
 -------------------------------------------------------------------------------------------
 **Contractions with Present Perfect:**
 
