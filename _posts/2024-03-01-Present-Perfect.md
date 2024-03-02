@@ -164,38 +164,5 @@ Examples:
 
 **Excercises**
 
-<iframe src="https://neki.is-a.dev/EnglishClassesExercises/Present-Perfect.html" width="100%" height="600" frameborder="0"></iframe>
-
-Complete the sentences with For or Since:
-
- 1. John's parents have been living in Germany ___ a long time.
-- [X] for
-- [ ] since
- 2. The cat hasn't eaten anything ___ yesterday.
-- [ ] for
-- [X] since
- 3. Kim and Joey have been friends ___ three years.
-- [X] for
-- [ ] since
- 4. Miss Thomas has taught at my school ___ 1975.
-- [ ] for
-- [X] since
- 5. Guy has known Joanna ___ they were at primary school.
-- [ ] for
-- [X] since
- 6. Have you seen her ___ she got married?
-- [ ] for
-- [X] since
- 7. I haven't heard from my pen pal ___ a long time.
-- [X] for
-- [ ] since
- 8. Haley has played the saxophone ___ she was 12.
-- [ ] for
-- [X] since
- 9. It has rained without interruption ___ three 
- days.
-- [X] for
-- [ ] since 
- 10. He's written to her every day ___ she left.
-- [ ] for
-- [X] since
+<iframe src="https://neki.is-a.dev/EnglishClassesExercises/Present-Perfect-MC.html" width="100%" height="600" frameborder="0"></iframe>
+<iframe src="https://neki.is-a.dev/EnglishClassesExercises/Present-Perfect-FTB.html" width="100%" height="600" frameborder="0"></iframe>
