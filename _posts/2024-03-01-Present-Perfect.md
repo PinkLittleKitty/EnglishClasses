@@ -44,7 +44,6 @@ When we use the Present Perfect speaking, we tend to contract the subject and au
 |It has|It's|
 |John has|John's|
 |The car has|The car's|
-|||
 
 -   You’ve told me that before.
     
@@ -101,10 +100,13 @@ We also use the Present Perfect to talk about a **change**, or **new** informati
 |Last week I didn't have a car.|Now I have a car.|
 
     Noelia has broken her leg.
+
 |Past|Present|
 |--|--|
 |Yesterday Noelia had a good leg.|Now her leg is broken.|
+
     Has the price gone up?
+
 |Past|Present|
 |--|--|
 |Yesteday the price was $1.50|Today the price is $1.75|
@@ -161,8 +163,7 @@ Examples:
 **Excercises:**
 Choose the correct option:
  1. Lindsay ___ not been to france.
-
-- [ ] has
+- [X] has
 - [ ] is
 - [ ] have
 2.  ___ you finished your homework?
@@ -205,12 +206,33 @@ Choose the correct option:
 Complete the sentences with For or Since:
 
  1. John's parents have been living in Germany ___ a long time.
+- [X] for
+- [ ] since
  2. The cat hasn't eaten anything ___ yesterday.
+- [ ] for
+- [ ] since
  3. Kim and Joey have been friends ___ three years.
+- [ ] for
+- [ ] since
  4. Miss Thomas has taught at my school ___ 1975.
+- [ ] for
+- [ ] since
  5. Guy has known Joanna ___ they were at primary school.
+- [ ] for
+- [ ] since
  6. Have you seen her ___ she got married?
+- [ ] for
+- [ ] since
  7. I haven't heard from my pen pal ___ a long time.
+- [ ] for
+- [ ] since
  8. Haley has played the saxophone ___ she was 12.
- 9. It has rained without interruption ___ three days. 
- 10. He's written to her every day ___ she left. 
+- [ ] for
+- [ ] since
+ 9. It has rained without interruption ___ three 
+ days.
+- [ ] for
+- [ ] since 
+ 10. He's written to her every day ___ she left.
+- [ ] for
+- [ ] since
