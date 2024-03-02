@@ -160,7 +160,10 @@ Examples:
 
 -----------------------------------------------------------------------------------------
 
-**Excercises:**
+**Excercises**
+
+<iframe style="width:900px;height:600px" src="https://t.onlineexammaker.com/doexam/RaJLVVvqLQr.html"  seamless="seamless" scrolling="yes" frameborder="0" allowtransparency="true" allowfullscreen="false" ></iframe>
+
 Choose the correct option:
  1. Lindsay ___ not been to france.
 - [X] has
