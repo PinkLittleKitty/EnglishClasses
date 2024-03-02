@@ -55,7 +55,9 @@ In negative sentences, there’s also the usual “not” contraction (this one 
     
 -   She hasn’t heard from him.
 
-> Tip: **He’s** or **He’s**? The **‘s** contraction is used for the auxiliary verbs
+> Tip:
+>
+> **He’s** or **He’s**? The **‘s** contraction is used for the auxiliary verbs
 > *have*  **and**  *be*. For example, “It’s eaten” can mean:
 > -   It has eaten (Present Perfect tense, active voice.) 
 > -   It is eaten (Present Simple tense, passive voice.)
@@ -162,7 +164,7 @@ Examples:
 
 **Excercises**
 
-<iframe src="\_Exercises\Present-Perfect.html" width="100%" height="600" frameborder="0"></iframe>
+<iframe src="https://neki.is-a.dev/EnglishClassesExercises/Present-Perfect.html" width="100%" height="600" frameborder="0"></iframe>
 
 Complete the sentences with For or Since:
 
