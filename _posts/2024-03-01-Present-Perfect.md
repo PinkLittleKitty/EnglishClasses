@@ -237,8 +237,6 @@ Complete the sentences with For or Since:
 - [ ] for
 - [X] since
 
-<script src="/js/quizlib.1.0.1.js"></script>
-
 <div id="quiz"></div>
 
 <script>
