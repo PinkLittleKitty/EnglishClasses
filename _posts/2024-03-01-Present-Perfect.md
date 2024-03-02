@@ -4,11 +4,12 @@ The present perfect tense is a rather important tense in English, but it may be 
 Also, there are some differences between its usage in British and American English. I’ll teach you British use, because it's the one I’m most accustomed to, and I like it more.
 
 -------------------------------------------------------------------------------------------
+
 **How do we make a Present Perfect tense?**
 
   
-| subject | + | auxiliary have conjugated in present simple: have or has|+|main verb|
-|--|--|--|--|--|
+subject + auxiliary have conjugated in present simple: have or has + main verb
+
 
 The auxiliary verb have is conjugated in the Present Simple: *have*, *has*.
 
@@ -19,6 +20,7 @@ For negative sentences we insert **not** between the auxiliary verb and the main
 For question sentences, we exchange the subject and the auxiliary verb.
 
 Examples:
+
 |  | Subject |Auxiliary verb|  | Main verb||
 |--|--|--|--|--|--|
 |+|I|have| |seen|ET.|
@@ -29,9 +31,11 @@ Examples:
 |?|Have|they||done|it?|
 
 -------------------------------------------------------------------------------------------
+
 **Contractions with Present Perfect:**
 
 When we use the Present Perfect speaking, we tend to contract the subject and auxiliary verb, this is also sometimes done in informal writing.
+
 |||
 |--|--|
 |You have|You've|
@@ -58,7 +62,9 @@ In negative sentences, there’s also the usual “not” contraction (this one 
 > -   It is eaten (Present Simple tense, passive voice.)
 > 
 > `It’s usually clear by the given context tho, dw.`
+
 -------------------------------------------------------------------------------------------
+
 **How do we use the Present Perfect tense?**
 
 This tense is called **Present** Perfect tense. There is always some connection with the **past** and with the **present**.
@@ -67,7 +73,9 @@ We use it to talk about:
 -   Experiences.
 -   Changes.
 -   Continuing situations.
+
 -------------------------------------------------------------------------------------------
+
 **Present perfect used for experience:**
 
 We often use the present perfect to talk about experience from the past. I am not interested in when you did something. I only want to know if you did it:
@@ -81,6 +89,7 @@ We often use the present perfect to talk about experience from the past. I am no
 **Connection with the present:** In my head, **now**, I have a memory of the event; I **know** something about the event; I have **experience** of it.
 
 -------------------------------------------------------------------------------------------
+
 **Present perfect used for change:**
 
 We also use the Present Perfect to talk about a **change**, or **new** information:
@@ -99,6 +108,7 @@ We also use the Present Perfect to talk about a **change**, or **new** informati
 |Past|Present|
 |--|--|
 |Yesteday the price was $1.50|Today the price is $1.75|
+
 **Connection with the past:** The past is opposite of the present.
 **Connection with the present:** The present is opposite of the past.
 
@@ -110,7 +120,9 @@ We also use the Present Perfect to talk about a **change**, or **new** informati
 > had lunch?”
 > 
 > `But, again, don't worry about it :D`
+
 -------------------------------------------------------------------------------------------
+
 **Present Perfect used for a continuing situation:**
 
 We often use the Present Perfect to talk about a **continuing situation**. This is a state that started in the **past** and continues in the **present** (and will probably continue in the future). This is a **situation** (not an action). We usually use **for** and **since** with this structure.
@@ -143,7 +155,9 @@ Examples:
 > 
 > **For** can be used with all tenses. **Since** is usually only used with
 > perfect ones.
+
 -----------------------------------------------------------------------------------------
+
 **Excercises:**
 Choose the correct option:
  1. Lindsay ___ not been to france.
