@@ -67,6 +67,19 @@ _Would it be ok if we sat here?_
 
 _Would it bother you if I closed the window?_
 
+Exercises:
+
+<iframe src="https://neki.is-a.dev/EnglishClassesExercises/Second-Conditional-FTB-1.html" width="100%" height="600" frameborder="0"></iframe>
+
+<iframe src="https://neki.is-a.dev/EnglishClassesExercises/Second-Conditional-FTB-2.html" width="100%" height="600" frameborder="0"></iframe>
+
+Oral practice, complete the sentences:
+
+* If I could live in another country, I…
+* If the weather is good this weekend, I…
+* If I were the president, I…
+* If I get bored this evening, I…
+
 Reminder:
 <table>
   <tr>
@@ -100,17 +113,3 @@ Reminder:
    </td>
   </tr>
 </table>
-
-
-Exercises:
-
-<iframe src="https://neki.is-a.dev/EnglishClassesExercises/Second-Conditional-FTB-1.html" width="100%" height="600" frameborder="0"></iframe>
-
-<iframe src="https://neki.is-a.dev/EnglishClassesExercises/Second-Conditional-FTB-2.html" width="100%" height="600" frameborder="0"></iframe>
-
-Oral practice, complete the sentences:
-
-* If I could live in another country, I…
-* If the weather is good this weekend, I…
-* If I were the president, I…
-* If I get bored this evening, I…
