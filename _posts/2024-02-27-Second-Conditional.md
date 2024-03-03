@@ -67,9 +67,7 @@ _Would it be ok if we sat here?_
 
 _Would it bother you if I closed the window?_
 
-Para que lo tengas:
-
-
+Reminder:
 <table>
   <tr>
    <td><strong>Conditional 0</strong>
@@ -89,18 +87,20 @@ Para que lo tengas:
    <td><strong>Opción 1:</strong> If + Condición <em>(oración con verbo conjugado en present simple)</em> + Will + Resultado <em>(oración con verbo en infinitivo)</em>
 <p>
 <strong>Opción 2: </strong>Resultado (oración con verbo en infinitivo) + Will + If + Condición (oración con verbo conjugado en present simple)
+   </td>
   </tr>
   <tr>
    <td><strong>Conditional 2</strong>
 <p>
 <strong>Si pasase <em>a</em> pasaría <em>b</em></strong>
+   </td>
    <td><strong>Opción 1:</strong> If + Condición <em>(oración con verbo conjugado en past simple)</em> + Would + Resultado <em>(oración con verbo en infinitivo)</em>
 <p>
 <strong>Opción 2:</strong> Resultado <em>(oración con verbo en infinitivo)</em> + Would + If + Condición <em>(oración con verbo conjugado en past simple)</em>
-   </p>
    </td>
-   </tr>
+  </tr>
 </table>
+
 
 Exercises:
 
