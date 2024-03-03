@@ -99,11 +99,8 @@ Para que lo tengas:
    <td><strong>Opción 1:</strong> If + Condición <em>(oración con verbo conjugado en past simple)</em> + Would + Resultado <em>(oración con verbo en infinitivo)</em>
 <p>
 <strong>Opción 2:</strong> Resultado <em>(oración con verbo en infinitivo)</em> + Would + If + Condición <em>(oración con verbo conjugado en past simple)</em>
-   </td>
-  </tr>
+   </p>
 </table>
-
-
 
 Exercises:
 
