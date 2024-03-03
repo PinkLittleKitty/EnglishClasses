@@ -93,7 +93,6 @@ Reminder:
    <td><strong>Conditional 1</strong>
 <p>
 <strong>Si haces <em>a</em> va a pasar<em> b</em></strong>
-   </td>
    <td><strong>Opción 1:</strong> If + Condición <em>(oración con verbo conjugado en present simple)</em> + Will + Resultado <em>(oración con verbo en infinitivo)</em>
 <p>
 <strong>Opción 2: </strong>Resultado (oración con verbo en infinitivo) + Will + If + Condición (oración con verbo conjugado en present simple)
@@ -101,7 +100,6 @@ Reminder:
    <td><strong>Conditional 2</strong>
 <p>
 <strong>Si pasase <em>a</em> pasaría <em>b</em></strong>
-   </td>
    <td><strong>Opción 1:</strong> If + Condición <em>(oración con verbo conjugado en past simple)</em> + Would + Resultado <em>(oración con verbo en infinitivo)</em>
 <p>
 <strong>Opción 2:</strong> Resultado <em>(oración con verbo en infinitivo)</em> + Would + If + Condición <em>(oración con verbo conjugado en past simple)</em>
