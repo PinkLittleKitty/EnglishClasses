@@ -164,5 +164,5 @@ Examples:
 
 **Excercises**
 
-<iframe src="https://neki.is-a.dev/EnglishClassesExercises/Present-Perfect-MC.html" width="100%" height="600" frameborder="0"></iframe>
-<iframe src="https://neki.is-a.dev/EnglishClassesExercises/Present-Perfect-FTB.html" width="100%" height="600" frameborder="0"></iframe>
+<iframe src="https://justneki.com/EnglishClassesExercises/Present-Perfect-MC.html" width="100%" height="600" frameborder="0"></iframe>
+<iframe src="https://justneki.com/EnglishClassesExercises/Present-Perfect-FTB.html" width="100%" height="600" frameborder="0"></iframe>
