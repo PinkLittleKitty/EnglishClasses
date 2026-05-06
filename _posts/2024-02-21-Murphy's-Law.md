@@ -92,4 +92,4 @@ DIFFERENCE BETWEEN ZERO AND FIRST CONDITIONAL:
 
 Exercises:
 
-<iframe src="https://neki.is-a.dev/EnglishClassesExercises/Conditionals-FTB.html" width="100%" height="600" frameborder="0"></iframe>
+<iframe src="https://justneki.com/EnglishClassesExercises/Conditionals-FTB.html" width="100%" height="600" frameborder="0"></iframe>

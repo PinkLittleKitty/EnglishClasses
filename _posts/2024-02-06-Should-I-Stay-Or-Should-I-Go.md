@@ -76,9 +76,9 @@ Note: We can use ought to/ought not to instead of should/shouldn’t. There is n
 
 * You ought to study harder.
 
-<iframe src="https://neki.is-a.dev/EnglishClassesExercises/Should-FTB-1.html" width="100%" height="600" frameborder="0"></iframe>
+<iframe src="https://justneki.com/EnglishClassesExercises/Should-FTB-1.html" width="100%" height="600" frameborder="0"></iframe>
 
 
 Get is one of the most common verbs in English, mainly because it has many different meanings and there are also many phrasal verbs with get.
 
-<iframe src="https://neki.is-a.dev/EnglishClassesExercises/Should-FTB-2.html" width="100%" height="600" frameborder="0"></iframe>
+<iframe src="https://justneki.com/EnglishClassesExercises/Should-FTB-2.html" width="100%" height="600" frameborder="0"></iframe>

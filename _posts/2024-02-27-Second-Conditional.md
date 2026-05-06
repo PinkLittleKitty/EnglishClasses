@@ -69,9 +69,9 @@ _Would it bother you if I closed the window?_
 
 Exercises:
 
-<iframe src="https://neki.is-a.dev/EnglishClassesExercises/Second-Conditional-FTB-1.html" width="100%" height="600" frameborder="0"></iframe>
+<iframe src="https://justneki.com/EnglishClassesExercises/Second-Conditional-FTB-1.html" width="100%" height="600" frameborder="0"></iframe>
 
-<iframe src="https://neki.is-a.dev/EnglishClassesExercises/Second-Conditional-FTB-2.html" width="100%" height="600" frameborder="0"></iframe>
+<iframe src="https://justneki.com/EnglishClassesExercises/Second-Conditional-FTB-2.html" width="100%" height="600" frameborder="0"></iframe>
 
 Oral practice, complete the sentences:
 

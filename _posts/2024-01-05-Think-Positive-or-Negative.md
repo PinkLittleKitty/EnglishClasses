@@ -239,4 +239,4 @@ Como regla general, usa “will” para oraciones afirmativas y negativas sobre 
 Especialmente para describir obligaciones, usa “shall”.
 
 Exercises:
-<iframe src="https://neki.is-a.dev/EnglishClassesExercises/Think-Positive-or-Negative-FTB-1.html" width="100%" height="600" frameborder="0"></iframe>
+<iframe src="https://justneki.com/EnglishClassesExercises/Think-Positive-or-Negative-FTB-1.html" width="100%" height="600" frameborder="0"></iframe>
