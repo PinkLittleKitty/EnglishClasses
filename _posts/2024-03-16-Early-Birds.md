@@ -63,4 +63,4 @@ Explain what these phrasal verbs mean:
 5.  I don't want to **give it up**.
 </div>
 
-<iframe style="max-width:100%" src="https://wordwall.net/es/embed/77dc623204c84a77bea6a395db0e1e4a?themeId=44&templateId=5&fontStackId=0" width="500" height="380" frameborder="0" allowfullscreen></iframe>
+<iframe title="Interactive Exercise" loading="lazy" style="max-width:100%" src="https://wordwall.net/es/embed/77dc623204c84a77bea6a395db0e1e4a?themeId=44&templateId=5&fontStackId=0" width="500" height="380" frameborder="0" allowfullscreen></iframe>

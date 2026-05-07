@@ -94,10 +94,10 @@ Se usa cuando la **acción** o el **objeto** son más importantes que quién la 
 ## Ejercicios
 
 ### Verb Tenses
-<iframe src="https://justneki.com/EnglishClassesExercises/Verb-Tenses-FTB.html" width="100%" height="600" frameborder="0"></iframe>
+<iframe title="Verb Tenses FTB" loading="lazy" src="https://justneki.com/EnglishClassesExercises/Verb-Tenses-FTB.html" width="100%" height="600" frameborder="0"></iframe>
 
 ### Modal Verbs
-<iframe src="https://justneki.com/EnglishClassesExercises/Modal-Verbs-MC.html" width="100%" height="600" frameborder="0"></iframe>
+<iframe title="Modal Verbs MC" loading="lazy" src="https://justneki.com/EnglishClassesExercises/Modal-Verbs-MC.html" width="100%" height="600" frameborder="0"></iframe>
 
 ### Passive Voice
-<iframe src="https://justneki.com/EnglishClassesExercises/Passive-Voice-Rewrite.html" width="100%" height="600" frameborder="0"></iframe>
+<iframe title="Passive Voice Rewrite" loading="lazy" src="https://justneki.com/EnglishClassesExercises/Passive-Voice-Rewrite.html" width="100%" height="600" frameborder="0"></iframe>

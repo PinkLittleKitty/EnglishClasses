@@ -221,4 +221,4 @@ Ejemplo:
 * **Incorrecto:** I look forward to hear from you.
 
 Exercises:
-<iframe src="https://justneki.com/EnglishClassesExercises/Happiness-is-FTB.html" width="100%" height="600" frameborder="0"></iframe>
+<iframe title="Happiness is FTB" loading="lazy" src="https://justneki.com/EnglishClassesExercises/Happiness-is-FTB.html" width="100%" height="600" frameborder="0"></iframe>

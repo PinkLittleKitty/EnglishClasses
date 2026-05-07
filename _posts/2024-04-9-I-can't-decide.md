@@ -41,4 +41,4 @@ We can form nouns from verbs or adjectives to create a more formal style.
 
 ## Exercises
 
-<iframe style="max-width:100%" src="https://wordwall.net/es/embed/7f3f230989eb4231a28583aabed61d5e?themeId=44&templateId=5&fontStackId=0" width="500" height="380" frameborder="0" allowfullscreen></iframe>
+<iframe title="Interactive Exercise" loading="lazy" style="max-width:100%" src="https://wordwall.net/es/embed/7f3f230989eb4231a28583aabed61d5e?themeId=44&templateId=5&fontStackId=0" width="500" height="380" frameborder="0" allowfullscreen></iframe>

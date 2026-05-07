@@ -53,4 +53,4 @@ Reverse the order of the clauses.
 
 ## Exercises
 
-<iframe src="https://justneki.com/EnglishClassesExercises/Conditionals-FTB.html" width="100%" height="600" frameborder="0"></iframe>
+<iframe title="Conditionals FTB" loading="lazy" src="https://justneki.com/EnglishClassesExercises/Conditionals-FTB.html" width="100%" height="600" frameborder="0"></iframe>

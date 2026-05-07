@@ -450,3 +450,20 @@ table th {
   background: #742a2a;
   color: #fed7d7;
 }
+
+iframe {
+  border-radius: 8px;
+  background-color: #f7fafc;
+  margin-bottom: 20px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s ease;
+}
+
+.dark-mode iframe {
+  background-color: #2d3748;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+iframe:hover {
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
