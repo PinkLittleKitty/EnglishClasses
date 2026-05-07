@@ -1,4 +1,8 @@
-## 11C - Twinstrangers.net
+---
+layout: post
+title: "11C - Twinstrangers.net"
+---
+
 
 The topic of this lesson is vocabulary, different words and phrases used to express similarity.
 

@@ -1,4 +1,8 @@
-## 7B - Happiness is…
+---
+layout: post
+title: "7B - Happiness is…"
+---
+
 
 **<span style="text-decoration:underline;">Gerunds!</span>**
 

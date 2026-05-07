@@ -1,4 +1,8 @@
-## 12C - The english file quiz
+---
+layout: post
+title: "12C - The english file quiz"
+---
+
 
 Questions without auxiliaries, you surely heard them, but maybe you don't know why or when they are used.
 

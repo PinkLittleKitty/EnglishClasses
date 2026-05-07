@@ -1,4 +1,8 @@
-## The False Evolution of Execution Methods
+---
+layout: post
+title: "The False Evolution of Execution Methods"
+---
+
 
 Questions based on [The False Evolution of Excecution Methods](https://www.youtube.com/watch?v=eirR4FHY2YY) by Jacob Geller:
 

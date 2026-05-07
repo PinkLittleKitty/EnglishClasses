@@ -1,4 +1,8 @@
-## 8A - Should I stay or should I go?
+---
+layout: post
+title: "8A - Should I stay or should I go?"
+---
+
 
 ### Quick questionnaire:
 Do you think you’re good at learning languages? \

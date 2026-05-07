@@ -1,4 +1,8 @@
-## 10B - Early bids
+---
+layout: post
+title: "10B - Early bids"
+---
+
 
 ### Phrasal Verbs & Word Order
 Phrasal verbs consist of a **verb** plus one or two **particles** (prepositions or adverbs).

@@ -1,4 +1,8 @@
-## 8B - Murphy’s Law (Conditionals)
+---
+layout: post
+title: "8B - Murphy’s Law (Conditionals)"
+---
+
 
 ### First Conditional
 The first conditional is used to talk about a **possible condition** and its **probable result** in the future.

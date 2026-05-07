@@ -1,4 +1,8 @@
-# Práctica Shank
+---
+layout: post
+title: "Práctica Shank"
+---
+
 ---
 
 ### Past Simple vs. Present Perfect

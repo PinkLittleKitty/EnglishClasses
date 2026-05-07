@@ -1,4 +1,8 @@
-## 6A - Think Positive or Negative?
+---
+layout: post
+title: "6A - Think Positive or Negative?"
+---
+
 
 ### Future: Will vs. Shall
 These auxiliaries are used to talk about the future, make promises, and offer suggestions.

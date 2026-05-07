@@ -1,4 +1,8 @@
-## 11A - Ask the teacher
+---
+layout: post
+title: "11A - Ask the teacher"
+---
+
 
 ### How to use "Used To" and "Didn't Use To"
 ### Past habits or actions:

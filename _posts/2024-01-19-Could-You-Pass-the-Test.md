@@ -1,4 +1,8 @@
-## 7C - Could you pass the test?
+---
+layout: post
+title: "7C - Could you pass the test?"
+---
+
 
 ### Obligations: Must vs. Have To
 There are multiple ways of conveying obligations, but the most common are **Must** and **Have To**.

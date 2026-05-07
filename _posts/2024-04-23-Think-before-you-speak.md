@@ -1,4 +1,8 @@
-## 12B - Think before you speak
+---
+layout: post
+title: "12B - Think before you speak"
+---
+
 
 Reported speech is when we tell someone what another person said. To do this, we can use direct speech or indirect speech.
 

@@ -1,4 +1,8 @@
-## 10C - Passive Voice
+---
+layout: post
+title: "10C - Passive Voice"
+---
+
 
 ### What is Passive Voice?
 

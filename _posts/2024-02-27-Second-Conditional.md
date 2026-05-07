@@ -1,4 +1,8 @@
-## 9A - Second Conditional.
+---
+layout: post
+title: "9A - Second Conditional."
+---
+
 
 ### When to use it?
 
