@@ -1,4 +1,8 @@
-## 12B - Think before you speak
+---
+layout: post
+title: "12B - Think before you speak"
+tags: [Grammar]
+---
 
 Reported speech is when we tell someone what another person said. To do this, we can use direct speech or indirect speech.
 
@@ -100,6 +104,6 @@ If what the speaker has said is still true or relevant, it's not always necessar
 | Has / Have    | Had             |
 
 
-<iframe style="max-width:100%" src="https://wordwall.net/es/embed/7bed036e99a14265af719bd48f33a29f?themeId=1&templateId=5&fontStackId=0" width="500" height="380" frameborder="0" allowfullscreen></iframe>
+<div class="iframe-wrapper"><div class="iframe-loader"></div><iframe title="Interactive Exercise" loading="lazy" style="max-width:100%" src="https://wordwall.net/es/embed/7bed036e99a14265af719bd48f33a29f?themeId=1&templateId=5&fontStackId=0" width="500" height="380" frameborder="0" allowfullscreen></iframe></div>
 
-<iframe style="max-width:100%" src="https://wordwall.net/es/embed/02fd757dac7a484988ba268d8e16e079?themeId=21&templateId=30&fontStackId=0" width="500" height="380" frameborder="0" allowfullscreen></iframe>
+<div class="iframe-wrapper"><div class="iframe-loader"></div><iframe title="Interactive Exercise" loading="lazy" style="max-width:100%" src="https://wordwall.net/es/embed/02fd757dac7a484988ba268d8e16e079?themeId=21&templateId=30&fontStackId=0" width="500" height="380" frameborder="0" allowfullscreen></iframe></div>

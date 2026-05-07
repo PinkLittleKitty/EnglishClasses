@@ -1,168 +1,119 @@
-## 9B - Present Perfect
+---
+layout: post
+title: "9B - Present Perfect"
+tags: [Grammar]
+---
 
 The present perfect tense is a rather important tense in English, but it may be kinda difficult to wrap your head around it, mostly because in some languages it does not exist. Its structure is really simple, but some problems may come out when you use it.
-Also, there are some differences between its usage in British and American English. I’ll teach you British use, because it's the one I’m most accustomed to, and I like it more.
+Also, there are some differences between its usage in British and American English. I’ll teach you British use, because it's the one I’m most accustomed to, and I like it more.---
 
--------------------------------------------------------------------------------------------
+### How do we make a Present Perfect tense?
 
-**How do we make a Present Perfect tense?**
+<div class="grammar-box" markdown="1">
+<span class="formula">Subject + auxiliary have/has + main verb (Past Participle)</span>
 
-  
-subject + auxiliary have conjugated in present simple: have or has + main verb
+*   The auxiliary verb have is conjugated in the Present Simple: *have*, *has*.
+*   The main verb is invariable in past participle form: *-ed* (or irregular).
+*   For **negative** sentences, we insert **not** between the auxiliary verb and the main verb.
+*   For **questions**, we exchange the subject and the auxiliary verb.
+</div>
 
+**Examples:**
 
-The auxiliary verb have is conjugated in the Present Simple: *have*, *has*.
+| Sentence Type | Subject | Auxiliary | Not | Main Verb | Object |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **(+) Positive** | I | have | | seen | ET. |
+| **(+) Positive** | You | have | | eaten | mine. |
+| **(-) Negative** | She | has | not | been | to Rome. |
+| **(-) Negative** | We | have | not | played | football. |
+| **(?) Question** | Have | you | | finished? | |
+| **(?) Question** | Have | they | | done | it? |
 
-The main verb is invariable in past participle form: *-ed* (or irregular)
+---
 
-For negative sentences we insert **not** between the auxiliary verb and the main verb.
+### Contractions with Present Perfect
 
-For question sentences, we exchange the subject and the auxiliary verb.
+When speaking, we tend to contract the subject and auxiliary verb:
 
-Examples:
+| Full Form | Contraction |
+| :--- | :--- |
+| I have | I've |
+| You have | You've |
+| He has | He's |
+| She has | She's |
+| It has | It's |
+| John has | John's |
 
-|  | Subject |Auxiliary verb|  | Main verb||
-|--|--|--|--|--|--|
-|+|I|have| |seen|ET.|
-|+|You|have| |eaten|mine.|
-|-|She|has|not|been|to Rome.|
-|-|We|have|not|played|football.|
-|?|Have|you||finished?||
-|?|Have|they||done|it?|
+*   *You’ve told me that before.*
+*   *John’s seen Harry Potter.*
 
--------------------------------------------------------------------------------------------
+In negative sentences, we contract the auxiliary verb with **not**:
+*   *You **haven’t** won the contest.*
+*   *She **hasn’t** heard from him.*
 
-**Contractions with Present Perfect:**
+> [!TIP]
+> **He’s** or **He’s**? The **‘s** contraction is used for both *has* and *is*. Context is key!
+> - "It’s eaten" -> *It has eaten* (Active) or *It is eaten* (Passive).
 
-When we use the Present Perfect speaking, we tend to contract the subject and auxiliary verb, this is also sometimes done in informal writing.
+---
 
-|||
-|--|--|
-|You have|You've|
-|He has|He's|
-|She has|She's|
-|It has|It's|
-|John has|John's|
-|The car has|The car's|
+### How do we use the Present Perfect tense?
 
--   You’ve told me that before.
-    
--   John’s seen harry potter.
+The Present Perfect always has a connection between the **past** and the **present**. We use it for:
+*   Experiences.
+*   Changes.
+*   Continuing situations.
 
-In negative sentences, there’s also the usual “not” contraction (this one is with the auxiliary verb)
+---
 
--   You haven’t won the contest.
-    
--   She hasn’t heard from him.
+### Present Perfect for Experience
 
-> Tip:
->
-> **He’s** or **He’s**? The **‘s** contraction is used for the auxiliary verbs
-> *have*  **and**  *be*. For example, “It’s eaten” can mean:
-> -   It has eaten (Present Perfect tense, active voice.) 
-> -   It is eaten (Present Simple tense, passive voice.)
-> 
-> `It’s usually clear by the given context tho, dw.`
+We use it to talk about life experiences without saying *when* they happened:
 
--------------------------------------------------------------------------------------------
+<div class="grammar-box" markdown="1">
+*   "I **have seen** an alien." (When? Unspecified).
+*   "He **has lived** in Bangkok."
+*   "**Have** you **been** there?"
+*   "We **have never eaten** caviar."
+</div>
 
-**How do we use the Present Perfect tense?**
+*   **Connection with the past:** The event happened in the past.
+*   **Connection with the present:** You have the **memory** or **experience** now.
 
-This tense is called **Present** Perfect tense. There is always some connection with the **past** and with the **present**.
+---
 
-We use it to talk about:
--   Experiences.
--   Changes.
--   Continuing situations.
+### Present Perfect for Change
 
--------------------------------------------------------------------------------------------
+We use it to talk about a **change** or **new information**:
 
-**Present perfect used for experience:**
+<div class="grammar-box" markdown="1">
+*   "I **have bought** a car." (I didn't have one, now I do).
+*   "Noelia **has broken** her leg." (It was fine, now it's broken).
+</div>
 
-We often use the present perfect to talk about experience from the past. I am not interested in when you did something. I only want to know if you did it:
+---
 
--   I **have seen** an alien. (When? I don't know, and I don't care.)
--   He **has lived** in Bangkok.
--   **Have** you **been** there?
--   We **have** never **eaten** caviar.
+### Present Perfect for Continuing Situations
 
-**Connection with the past:** The event was in the past.
-**Connection with the present:** In my head, **now**, I have a memory of the event; I **know** something about the event; I have **experience** of it.
+Used for a state that started in the **past** and continues in the **present**. We usually use **for** and **since**.
 
--------------------------------------------------------------------------------------------
+<div class="grammar-box" markdown="1">
+*   "I **have worked** here since June."
+*   "He **has been** ill for 2 days."
+*   "How long **have** you **known** Tara?"
+</div>
 
-**Present perfect used for change:**
+---
 
-We also use the Present Perfect to talk about a **change**, or **new** information:
+### *For* and *Since*
 
-    I have bought a car.
+*   **For**: Used for a **period of time** (*five minutes, two weeks*).
+*   **Since**: Used for a **point in the past** (*9 o’clock, Monday*).
 
-|Past|Present|
-|--|--|
-|Last week I didn't have a car.|Now I have a car.|
+---
 
-    Noelia has broken her leg.
+## Exercises
 
-|Past|Present|
-|--|--|
-|Yesterday Noelia had a good leg.|Now her leg is broken.|
-
-    Has the price gone up?
-
-|Past|Present|
-|--|--|
-|Yesteday the price was $1.50|Today the price is $1.75|
-
-**Connection with the past:** The past is opposite of the present.
-**Connection with the present:** The present is opposite of the past.
-
-> Tip n2:
-> 
-> Americans use Present Perfect, but a lot less than British speakers.
-> Americans often use the Past Simple tense instead. An American might
-> say “Did you have lunch?”, where a british person would say “Have you
-> had lunch?”
-> 
-> `But, again, don't worry about it :D`
-
--------------------------------------------------------------------------------------------
-
-**Present Perfect used for a continuing situation:**
-
-We often use the Present Perfect to talk about a **continuing situation**. This is a state that started in the **past** and continues in the **present** (and will probably continue in the future). This is a **situation** (not an action). We usually use **for** and **since** with this structure.
-
--   I **have worked** here since June.
--   He **has been** ill for 2 days. 
--   How long **have** you **known** Tara?
-
-**Connection with the past:** The situation started in the past
-**Connection with the present:** The situation continues in the present.
-
--------------------------------------------------------------------------------------------
-
-***For* and *Since* with Present Perfect tense:**
-
-We often use **for** and **since** with perfect tenses:
--   We use **for** to talk about a **period of time**: *five minutes, two weeks, seven years.*
--   We use **since** to talk about a **point in the past**: *9 o’clock, 1st January, Monday.*
-
-Examples:
--   I have been here for twenty minutes.
--   I have been here since 9 o’clock.
--   John hasn’t called for six months.
--   John hasn’t called since February.
--   He has worked in New York for a long time.
--   He has worked in New York since he left school.
-    
-
-> Tip n3:
-> 
-> **For** can be used with all tenses. **Since** is usually only used with
-> perfect ones.
-
------------------------------------------------------------------------------------------
-
-**Excercises**
-
-<iframe src="https://justneki.com/EnglishClassesExercises/Present-Perfect-MC.html" width="100%" height="600" frameborder="0"></iframe>
-<iframe src="https://justneki.com/EnglishClassesExercises/Present-Perfect-FTB.html" width="100%" height="600" frameborder="0"></iframe>
+<div class="iframe-wrapper"><div class="iframe-loader"></div><iframe title="Present Perfect MC" loading="lazy" src="https://justneki.com/EnglishClassesExercises/Present-Perfect-MC.html" width="100%" height="600" frameborder="0"></iframe></div>
+<div class="iframe-wrapper"><div class="iframe-loader"></div><iframe title="Present Perfect FTB" loading="lazy" src="https://justneki.com/EnglishClassesExercises/Present-Perfect-FTB.html" width="100%" height="600" frameborder="0"></iframe></div>
+th="100%" height="600" frameborder="0"></iframe>

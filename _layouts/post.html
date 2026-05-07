@@ -13,9 +13,23 @@ layout: default
       </time>
       {% assign author = page.author | default: site.author %}
       {%- if author -%}
-        • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ author }}</span></span>
-      {%- endif -%}</p>
+      • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card"
+          itemprop="name">{{ author }}</span></span>
+      {%- endif -%}
+      •
+      {% assign words = content | number_of_words %}
+      {% if words < 360 %} 1 min read {% else %} {{ words | divided_by: 180 }} min read {% endif %} </p>
+
+        {% if page.tags %}
+        <div class="post-tags" style="margin-top: 10px;">
+          {% for tag in page.tags %}
+          {% capture tag_class %}tag-{{ tag | slugify }}{% endcapture %}
+          <span class="tag-badge {{ tag_class }}">{{ tag }}</span>
+          {% endfor %}
+        </div>
+        {% endif %}
   </header>
+
 
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}

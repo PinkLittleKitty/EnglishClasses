@@ -1,4 +1,8 @@
-## 11C - Twinstrangers.net
+---
+layout: post
+title: "11C - Twinstrangers.net"
+tags: [Reading, Vocabulary, Grammar]
+---
 
 The topic of this lesson is vocabulary, different words and phrases used to express similarity.
 
@@ -7,7 +11,7 @@ Read the following text:
 >Nothing unusual here, except for one thing. The two girls look identical. Their hair is the same colour and length, they're the same age and size, and when you see them together, in the photo they put on social media, you would think that they were identical twins. In fact, Cordelia Roberts and Ciara Murphy are unrelated.  
 >It seems that it is not uncommon for people who are unrelated to look almost identical. Niamh Geaney, from Dublin, and two friends were so interested in trying to find their "twins" that they set up an online project called Twin Strangers. Very quickly, Niamh found a remarkably similar-looking stranger who lives just a few miles away. I'ts perhaps not so surprising, as both young women look typically Irish, with dark hair and very pale skin, but then Niamh found another lookalike - Louisa Guizzardi, who is from Genoa in Italy!
 
-<iframe style="max-width:100%" src="https://justneki.com/EnglishClassesExercises/TwinStrangers1-DaD.html" width="1000" height="380" frameborder="0" allowfullscreen></iframe>
+<div class="iframe-wrapper"><div class="iframe-loader"></div><iframe title="TwinStrangers1 DaD" loading="lazy" style="max-width:100%" src="https://justneki.com/EnglishClassesExercises/TwinStrangers1-DaD.html" width="1000" height="380" frameborder="0" allowfullscreen></iframe></div>
 
 ## So, Neither + *auxiliaries*
 **"So do I"** and **"Neither do I"** are expressions that, when we speak in english, serve to show our agreement with what someone is saying.  
@@ -68,4 +72,4 @@ Examples:
 Dave hasn't seen this film before, nor have I.
 Dave hasn't seen this film before, neither have I.
 
-<iframe style="max-width:100%" src="https://wordwall.net/es/embed/82d4dbec2b08461092faddf3cc6d7c3d?themeId=46&templateId=48&fontStackId=0" width="500" height="380" frameborder="0" allowfullscreen></iframe>
+<div class="iframe-wrapper"><div class="iframe-loader"></div><iframe title="Interactive Exercise" loading="lazy" style="max-width:100%" src="https://wordwall.net/es/embed/82d4dbec2b08461092faddf3cc6d7c3d?themeId=46&templateId=48&fontStackId=0" width="500" height="380" frameborder="0" allowfullscreen></iframe></div>

@@ -1,251 +1,75 @@
-## 8C - Possessive pronouns:
+---
+layout: post
+title: "8C - Possessive pronouns:"
+tags: [Grammar]
+---
 
-Función:
+### Funciones de los Posesivos
 
+<div class="grammar-box" markdown="1">
+#### 1. Adjetivos Posesivos
+Funcionan como un artículo que acompaña al sustantivo. **Siempre van antes del objeto.**
+*   *My car is blue.* (Mi auto es azul)
+*   *His house is big.* (Su casa es grande)
+</div>
 
+<div class="grammar-box" markdown="1">
+#### 2. Pronombres Posesivos
+Funcionan como un pronombre que reemplaza al objeto. **Suelen ir al final de la oración.**
+*   *The blue car is mine.* (El auto azul es mío)
+*   *The big house is his.* (La casa grande es de él)
+</div>
 
-1. <span style="text-decoration:underline;">En función de artículo determinativo del sujeto</span>: Gramaticalmente funciona como un artículo determinado del sustantivo al que acompaña, por lo tanto siempre va antes del objeto.
+| Sujeto | Objeto | Adjetivo Posesivo | Pronombre Posesivo |
+| :--- | :--- | :--- | :--- |
+| **I** | Me | My | **Mine** |
+| **You** | You | Your | **Yours** |
+| **He** | Him | His | **His** |
+| **She** | Her | Her | **Hers** |
+| **It** | It | Its | - |
+| **We** | Us | Our | **Ours** |
+| **They** | Them | Their | **Theirs** |
 
-    Ejemplos:
-
-* **My** car is blue (Mi auto es azul)
-* **His** house is big (Su casa es grande)
-2. <span style="text-decoration:underline;">En función del pronombre</span>: Gramaticalmente funciona como un pronombre en función del complemento directo. Siempre va al final de la oración.
-
-    Ejemplos:
-
-* The blue car is **mine** (El auto azul es mío)
-* The big house is **his** (La casa grande es de él)
-
-<table>
-  <tr>
-   <td>Subject
-   </td>
-   <td>Object
-   </td>
-   <td>Possessive adjective
-   </td>
-   <td>Possessive pronoun
-   </td>
-  </tr>
-  <tr>
-   <td>I
-   </td>
-   <td>Me
-   </td>
-   <td>My
-   </td>
-   <td>Mine
-   </td>
-  </tr>
-  <tr>
-   <td>You
-   </td>
-   <td>You
-   </td>
-   <td>Your
-   </td>
-   <td>Yours
-   </td>
-  </tr>
-  <tr>
-   <td>He
-   </td>
-   <td>Him
-   </td>
-   <td>His
-   </td>
-   <td>His
-   </td>
-  </tr>
-  <tr>
-   <td>She
-   </td>
-   <td>Her
-   </td>
-   <td>Her
-   </td>
-   <td>Hers
-   </td>
-  </tr>
-  <tr>
-   <td>It
-   </td>
-   <td>It
-   </td>
-   <td>Its
-   </td>
-   <td>-
-   </td>
-  </tr>
-  <tr>
-   <td>We
-   </td>
-   <td>Us
-   </td>
-   <td>Our
-   </td>
-   <td>Ours
-   </td>
-  </tr>
-  <tr>
-   <td>They
-   </td>
-   <td>Them
-   </td>
-   <td>Their
-   </td>
-   <td>Theirs
-   </td>
-  </tr>
-</table>
-
-No llevan el apóstrofo:
-
-YES: Is that cat **yours/hers/ours/theirs?**
-
-NO: is that car **your’s/her’s/our’s/their’s**
-
-Genitivos:
-
-La terminación “-s” que indica el genitivo no se ha de confundir con los pronombres posesivos, osea que podemos decir:
-
-
-
-* Her dress (Su vestido [de ella])
-
-O podemos decir:
-
-
-
-* Andrea’s dress (El vestido de andrea)
-
-En ambos casos estamos expresando un poseedor y un poseído, en este caso, el vestido. En la primera frase, el pronombre posesivo femenino “her” indica que tanto el hablante como el oyente acaban de hacer referencia a la misma persona. En cambio, en el segundo caso, el hablante quiere dar a conocer el nombre del poseedor.
-
-Reglas Gramaticales:
-
-
-
-1. Siempre usamos el genitivo para referirnos a personas:
-* Paul's house. (La casa de paul)
-* Mary’s bike. (La bicicleta de mary)
-2. Cuando nos referimos a cosas o lugares, usamos la preposición “of”:
-* The wheel of the bike. (La rueda de la bicicleta)
-* Buenos Aires is the capital of Argentina (Buenos aires es la capital de argentina)
-3. También podemos usar el genitivo al final de una oración que es respuesta a una pregunta anterior, en estos casos no se necesita un nombre:
-* Pregunta: Where is your sister? (¿Dónde está tu hermana?)
-* Respuesta: She is at my parents’. (Está “en lo de” mis padres)
-* Pregunta: Whose house is this? (¿De quién es esta casa?)
-* Respuesta: It is Michael’s (Es de Michael).
-4. Cuando hay más de un poseedor, el apóstrofo se pone después de la “s”:
-* The girls’ toys. (Los juguetes de las nenas)
-* The students’ exams. (Los exámenes de los estudiantes)
-
-Me dí cuenta que tenés problema con meterle el LY al final a algunas palabras, así que te dejo un cuadrito:
-
-
-<table>
-  <tr>
-   <td><strong>Adjetivo</strong>
-   </td>
-   <td><strong>Adverbio</strong>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>Quiet
-   </td>
-   <td>Quiet<strong>ly</strong>
-   </td>
-   <td>Añadís -ly
-   </td>
-  </tr>
-  <tr>
-   <td>Sad
-   </td>
-   <td>Sad<strong>ly</strong>
-   </td>
-   <td>Añadís -ly
-   </td>
-  </tr>
-  <tr>
-   <td>Possi<strong>ble</strong>
-   </td>
-   <td>Possi<strong>bly</strong>
-   </td>
-   <td>Cambiás el -ble por -bly
-   </td>
-  </tr>
-  <tr>
-   <td>Comforta<strong>ble</strong>
-   </td>
-   <td>Comforta<strong>bly</strong>
-   </td>
-   <td>Cambiás el -ble por -bly
-   </td>
-  </tr>
-  <tr>
-   <td>Lazy
-   </td>
-   <td>Laz<strong>ily</strong>
-   </td>
-   <td>Cambiás el -y por -ily
-   </td>
-  </tr>
-  <tr>
-   <td>Angry
-   </td>
-   <td>Angr<strong>ily</strong>
-   </td>
-   <td>Cambiás el -y por -ily
-   </td>
-  </tr>
-  <tr>
-   <td>Economic
-   </td>
-   <td>Economic<strong>ally</strong>
-   </td>
-   <td>Se le agrega -ally
-   </td>
-  </tr>
-  <tr>
-   <td>Tragic
-   </td>
-   <td>Tragic<strong>ally</strong>
-   </td>
-   <td>Se le agrega -ally
-   </td>
-  </tr>
-  <tr>
-   <td>Good
-   </td>
-   <td><strong>Well</strong>
-   </td>
-   <td>Irregular
-   </td>
-  </tr>
-  <tr>
-   <td>Fast
-   </td>
-   <td><strong>Fast</strong>
-   </td>
-   <td>Irregular
-   </td>
-  </tr>
-  <tr>
-   <td>Hard
-   </td>
-   <td><strong>Hard</strong>
-   </td>
-   <td>Irregular
-   </td>
-  </tr>
-</table>
-
-
+> [!IMPORTANT]
+> **No llevan apóstrofo**:
+> - ✅ *Is that cat yours?*
+> - ❌ *Is that car your’s?*
 
 ---
+
+### Genitivos (Sajón)
+El uso de **'s** para indicar posesión. No confundir con los pronombres posesivos.
+
+<div class="grammar-box" markdown="1">
+#### Reglas Gramaticales
+1.  **Personas**: Usamos el genitivo (`'s`).
+    *   *Paul's house.* (La casa de Paul)
+2.  **Cosas o Lugares**: Usamos la preposición `of`.
+    *   *The wheel of the bike.* (La rueda de la bicicleta)
+3.  **Respuestas Cortas**: Podemos omitir el nombre del objeto si ya se mencionó.
+    *   *It is Michael’s.* (Es de Michael)
+4.  **Plurales**: Si el poseedor es plural y termina en *s*, el apóstrofo va después.
+    *   *The girls’ toys.* (Los juguetes de las nenas)
+</div>
+
+---
+
+### Adjetivos vs. Adverbios (-ly)
+Aquí tienes una guía rápida para formar adverbios:
+
+| Adjetivo | Adverbio | Regla |
+| :--- | :--- | :--- |
+| Quiet | **Quietly** | Añadir *-ly* |
+| Sad | **Sadly** | Añadir *-ly* |
+| Possible | **Possibly** | Cambiar *-ble* por *-bly* |
+| Comfortable | **Comfortably** | Cambiar *-ble* por *-bly* |
+| Lazy | **Lazily** | Cambiar *-y* por *-ily* |
+| Angry | **Angrily** | Cambiar *-y* por *-ily* |
+| Economic | **Economically** | Añadir *-ally* |
+| Tragic | **Tragically** | Añadir *-ally* |
+| **Good** | **Well** | Irregular |
+| **Fast** | **Fast** | Irregular |
+| **Hard** | **Hard** | Irregular |
 
 Reading:
 
