@@ -1,7 +1,10 @@
 ---
 layout: post
 title: "Práctica Shank"
+tags: [Practice, Grammar]
 ---
+
+
 Espero esto te sirva de algo xd
 
 ### Past Simple vs. Present Perfect

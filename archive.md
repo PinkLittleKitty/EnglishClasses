@@ -18,7 +18,15 @@ title: Archivo
     
     <li>
       <a href="{{ post.url | relative_url }}" class="post-card" style="padding: 1rem; margin-bottom: 1rem;">
-        <span class="post-card-meta">{{ post.date | date: "%B %d" }}</span>
+        <span class="post-card-meta">
+          {{ post.date | date: "%B %d" }}
+          {% if post.tags %}
+            {% for tag in post.tags %}
+              {% capture tag_class %}tag-{{ tag | slugify }}{% endcapture %}
+              <span class="tag-badge {{ tag_class }}" style="margin-left: 8px;">{{ tag }}</span>
+            {% endfor %}
+          {% endif %}
+        </span>
         <h3 class="post-card-title" style="font-size: 1.2rem; margin-bottom: 0;">{{ post.title | escape }}</h3>
       </a>
     </li>
