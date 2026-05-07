@@ -5,7 +5,7 @@
 El punto de confusión más común. Acordate: **La clave es la especificidad.**
 
 <div class="grammar-box" markdown="1">
-  #### Past Simple
+  <h4>Past Simple</h4>
   <span class="formula">Sujeto + Verbo-ed (o irregular)</span>
   Usado para acciones completadas en un tiempo **específico** en el pasado.
 
@@ -14,7 +14,7 @@ El punto de confusión más común. Acordate: **La clave es la especificidad.**
 </div>
 
 <div class="grammar-box" markdown="1">
-  #### Present Perfect
+  <h4>Present Perfect</h4>
   <span class="formula">Sujeto + have/has + Pasado Participio</span>
   Usado para acciones en un tiempo **no especificado**, o acciones que tienen conexión con el **presente**.
 
