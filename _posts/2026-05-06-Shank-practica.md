@@ -3,8 +3,6 @@ layout: post
 title: "Práctica Shank"
 ---
 
----
-
 ### Past Simple vs. Present Perfect
 El punto de confusión más común. Acordate: **La clave es la especificidad.**
 
