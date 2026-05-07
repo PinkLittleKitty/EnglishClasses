@@ -45,12 +45,12 @@ hr {
 }
 
 .grammar-box {
-  background: #f8f9fa;
-  border-left: 5px solid #007bff;
-  padding: 1.5rem;
-  margin: 1.5rem 0;
-  border-radius: 0.5rem;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+  background: #f8f9fa !important;
+  border-left: 5px solid #007bff !important;
+  padding: 1.5rem !important;
+  margin: 1.5rem 0 !important;
+  border-radius: 0.5rem !important;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05) !important;
 }
 
 .dark-mode .grammar-box {
@@ -59,14 +59,14 @@ hr {
 }
 
 .formula {
-  background: #e9ecef;
-  padding: 0.5rem 1rem;
-  border-radius: 0.3rem;
-  font-family: 'Courier New', Courier, monospace;
-  display: block;
-  margin: 1rem 0;
-  font-weight: bold;
-  color: #d63384;
+  background: #e9ecef !important;
+  padding: 0.5rem 1rem !important;
+  border-radius: 0.3rem !important;
+  font-family: 'Courier New', Courier, monospace !important;
+  display: block !important;
+  margin: 1rem 0 !important;
+  font-weight: bold !important;
+  color: #d63384 !important;
 }
 
 .dark-mode .formula {
@@ -85,4 +85,21 @@ blockquote {
   padding-left: 1rem;
   margin-left: 0;
   color: #495057;
+}
+
+table {
+  width: 100% !important;
+  border-collapse: collapse !important;
+  margin: 1.5rem 0 !important;
+}
+
+table th,
+table td {
+  border: 1px solid #dee2e6 !important;
+  padding: 0.75rem !important;
+  text-align: left !important;
+}
+
+table th {
+  background-color: #f8f9fa !important;
 }
