@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "10C - Passive Voice"
+title: "10C - Passive Voice"
+tags: [Grammar]
 ---
-
 
 ### What is Passive Voice?
 
@@ -48,4 +48,4 @@ The passive voice is more formal and common in writing. Use it when:
 
 ## Exercises
 
-<iframe style="max-width:100%" src="https://wordwall.net/es/embed/07b4020562724abb84d204625ed511e5?themeId=1&templateId=5&fontStackId=0" width="500" height="380" frameborder="0" allowfullscreen></iframe>
+<iframe style="max-width:100%" src="https://wordwall.net/es/embed/07b4020562724abb84d204625ed511e5?themeId=1&templateId=5&fontStackId=0" width="500" height="380" frameborder="0" allowfullscreen></iframe>

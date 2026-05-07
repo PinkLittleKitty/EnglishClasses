@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "8C - Possessive pronouns:"
+title: "8C - Possessive pronouns:"
+tags: [Grammar]
 ---
-
 
 ### Funciones de los Posesivos
 

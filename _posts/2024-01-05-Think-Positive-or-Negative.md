@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "6A - Think Positive or Negative?"
+title: "6A - Think Positive or Negative?"
+tags: [Reading, Vocabulary]
 ---
-
 
 ### Future: Will vs. Shall
 These auxiliaries are used to talk about the future, make promises, and offer suggestions.
@@ -61,4 +61,3 @@ These auxiliaries are used to talk about the future, make promises, and offer su
 ## Exercises
 
 <iframe src="https://justneki.com/EnglishClassesExercises/Think-Positive-or-Negative-FTB-1.html" width="100%" height="600" frameborder="0"></iframe>
-

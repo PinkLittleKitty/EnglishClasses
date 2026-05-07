@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "7A - First Day Nerves"
+title: "7A - First Day Nerves"
+tags: [Reading, Vocabulary]
 ---
-
 
 <span style="text-decoration:underline;">To-Infinitive:</span>
 

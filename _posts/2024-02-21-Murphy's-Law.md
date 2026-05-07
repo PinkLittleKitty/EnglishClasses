@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "8B - Murphy’s Law (Conditionals)"
+title: "8B - Murphy’s Law (Conditionals)"
+tags: [Reading, Vocabulary]
 ---
-
 
 ### First Conditional
 The first conditional is used to talk about a **possible condition** and its **probable result** in the future.
@@ -53,4 +53,4 @@ Reverse the order of the clauses.
 
 ## Exercises
 
-<iframe src="https://justneki.com/EnglishClassesExercises/Conditionals-FTB.html" width="100%" height="600" frameborder="0"></iframe>
+<iframe src="https://justneki.com/EnglishClassesExercises/Conditionals-FTB.html" width="100%" height="600" frameborder="0"></iframe>

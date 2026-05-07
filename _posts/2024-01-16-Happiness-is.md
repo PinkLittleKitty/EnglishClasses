@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "7B - Happiness is…"
+title: "7B - Happiness is…"
+tags: [Reading, Vocabulary]
 ---
-
 
 **<span style="text-decoration:underline;">Gerunds!</span>**
 

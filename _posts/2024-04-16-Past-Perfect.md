@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "12A - Past Perfect"
+title: "12A - Past Perfect"
+tags: [Grammar]
 ---
-
 
 The past perfect tense is a verb form used to refer to a past action that occurred before another past action.
 
@@ -65,4 +65,4 @@ The past perfect tense is used:
 *   **Negatives**: *Aaron was tired because he **had not** eaten all day.*
 *   **Questions**: *Had the bus left by the time you arrived?*
 *   **Wh- Questions**: *Where **had** the pirates **hidden** the treasure?*
-</div>
+</div>

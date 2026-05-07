@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "11C - Twinstrangers.net"
+title: "11C - Twinstrangers.net"
+tags: [Reading, Vocabulary, Grammar]
 ---
-
 
 The topic of this lesson is vocabulary, different words and phrases used to express similarity.
 

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "10B - Early bids"
+title: "10B - Early bids"
+tags: [Grammar, Vocabulary]
 ---
-
 
 ### Phrasal Verbs & Word Order
 Phrasal verbs consist of a **verb** plus one or two **particles** (prepositions or adverbs).
@@ -63,4 +63,4 @@ Explain what these phrasal verbs mean:
 5.  I don't want to **give it up**.
 </div>
 
-<iframe style="max-width:100%" src="https://wordwall.net/es/embed/77dc623204c84a77bea6a395db0e1e4a?themeId=44&templateId=5&fontStackId=0" width="500" height="380" frameborder="0" allowfullscreen></iframe>
+<iframe style="max-width:100%" src="https://wordwall.net/es/embed/77dc623204c84a77bea6a395db0e1e4a?themeId=44&templateId=5&fontStackId=0" width="500" height="380" frameborder="0" allowfullscreen></iframe>

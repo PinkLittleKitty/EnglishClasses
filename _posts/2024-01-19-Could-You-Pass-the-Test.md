@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "7C - Could you pass the test?"
+title: "7C - Could you pass the test?"
+tags: [Grammar, Practice]
 ---
-
 
 ### Obligations: Must vs. Have To
 There are multiple ways of conveying obligations, but the most common are **Must** and **Have To**.
@@ -61,4 +61,4 @@ The negative of **Must** is **Mustn’t** (Must not).
     *   *I **had to** pay my speeding ticket yesterday.*
 *   **Future**: *Will have to* (or *I'll have to*)
     *   *I **will have to** leave work early tomorrow.*
-</div>
+</div>
