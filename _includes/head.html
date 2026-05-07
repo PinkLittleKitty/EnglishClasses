@@ -21,6 +21,15 @@
   <script type="text/javascript" src="{{ '/js/highlightjs/languages/powershell.min.js' | relative_url }}"></script>
   <script type="text/javascript" src="{{ '/js/highlightjs/languages/tsql.min.js' | relative_url }}"></script>
 
+  <script type="text/javascript">
+    (function () {
+      const currentTheme = localStorage.getItem('theme');
+      if (currentTheme === 'dark-mode' || (!currentTheme && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+        document.documentElement.classList.add('dark-mode');
+      }
+    })();
+  </script>
+
   <script type="text/javascript"> hljs.highlightAll(); </script>
   <!-- end highlight.js support -->
 </head>

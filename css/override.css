@@ -225,6 +225,67 @@ table th {
   color: #e2e8f0;
 }
 
+.dark-mode,
+.dark-mode body {
+  background-color: #1a202c !important;
+  color: #e2e8f0 !important;
+}
+
+.dark-mode .site-header,
+.dark-mode .site-footer,
+.dark-mode .page-content,
+.dark-mode .wrapper {
+  background-color: #1a202c !important;
+  border-color: #2d3748 !important;
+}
+
+.dark-mode .site-title,
+.dark-mode .site-title:visited,
+.dark-mode .page-link {
+  color: #e2e8f0 !important;
+}
+
+.dark-mode h1,
+.dark-mode h2,
+.dark-mode h3,
+.dark-mode h4,
+.dark-mode h5,
+.dark-mode h6 {
+  color: #f7fafc !important;
+}
+
+.dark-mode .post-title,
+.dark-mode .post-content,
+.dark-mode .post-meta {
+  color: #cbd5e0 !important;
+}
+
+.dark-mode a {
+  color: #63b3ed !important;
+}
+
+.dark-mode a:hover {
+  color: #90cdf4 !important;
+}
+
+.dark-mode blockquote {
+  border-color: #4a5568;
+  color: #a0aec0;
+}
+
+.dark-mode hr {
+  border-color: #2d3748;
+}
+
+.dark-mode .post_navi-item {
+  color: #a0aec0 !important;
+}
+
+.dark-mode .post_navi-arrow {
+  color: #4a5568 !important;
+}
+
+
 .theme-toggle-btn {
   background: none;
   border: none;
@@ -233,7 +294,7 @@ table th {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  color: #4a5568;
+  color: #718096;
   transition: color 0.3s ease;
   vertical-align: middle;
   margin-right: 10px;
@@ -248,14 +309,18 @@ table th {
 }
 
 .theme-toggle-btn .moon {
-  display: none;
+  display: block;
 }
 
-.dark-mode .theme-toggle-btn .sun {
+.theme-toggle-btn .sun {
   display: none;
 }
 
 .dark-mode .theme-toggle-btn .moon {
+  display: none;
+}
+
+.dark-mode .theme-toggle-btn .sun {
   display: block;
   color: #f6e05e;
 }
