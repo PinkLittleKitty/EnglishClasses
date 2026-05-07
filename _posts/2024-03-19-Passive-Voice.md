@@ -1,72 +1,47 @@
 ## 10C - Passive Voice
 
+### What is Passive Voice?
+
 When A does B, we have two possible ways of talking about it: **Active** or **Passive**.
 
-Present Simple:
->Somebody cleans the classroom every day. (Active)
+<div class="grammar-box" markdown="1">
+*   **Active**: The subject is the "doer" (e.g., *Somebody cleans the room*).
+*   **Passive**: The subject is the "receiver" (e.g., *The room is cleaned*).
+</div>
 
->The classroom is cleaned every day. (Passive)
+---
 
-Past Simple:
->Somebody cleaned the calssroom yesterday. (Active)
+### How do we make Passive Voice?
 
->The classroom was cleaned yesterday. (Passive)
+<div class="grammar-box" markdown="1">
+<span class="formula">Subject (Receiver) + to be (conjugated) + Past Participle</span>
 
-The object of an active sentence is the subject of a passive sentence. In an active sentence, the subject is the "doer" of the action, and the object is the "reciever" of the action. In a passive sentence, the subject is the receiver of the action, NOT the doer.
+*   The object of the active sentence becomes the subject of the passive sentence.
+*   The subject of the active sentence is either left out or added after "**by**".
+</div>
 
-To make it more clear: We use passive in the present when the object of the verb is more important than the subject.
+| Tense | Active Sentence | Passive Sentence |
+| :--- | :--- | :--- |
+| **Present Simple** | Paul builds a house. | A house **is built** by Paul. |
+| **Past Simple** | James made a film. | A film **was made** by James. |
+| **Present Perfect** | Peter has written a book. | A book **has been written** by Peter. |
 
->**Somebody** broke the window.
+---
 
->**The window** was broken.
+### When do we use it?
 
-In the first sentence, "somebody" is the doer of the breaking, and in the second sentence, "the window" is the reciever of the breaking.
+The passive voice is more formal and common in writing. Use it when:
+1.  You don't know who did the action.
+2.  It's obvious who did it.
+3.  The object is more important than the "doer".
 
-### How do we make passive voice sentences?
+**Examples:**
+*   *A bank **was robbed** yesterday.* (Unknown doer)
+*   *The robber **was arrested** last night.* (Obvious doer: the police)
+*   *Tetris **was made** by Aleksei Pazitnov.* (Focus on the game)
 
-* Object of the *active* sentence becomes subject in the *passive* sentence.
-* subject of the *active* sentence becomes object in the *passive* sentence. (or is left out)
+---
 
->Note: We can only form a passive sentence from an active sentence when there is an object in the active sentence.
+## Exercises
 
-Present Simple: 
-
-|Type of sentence|Subject|Verb|Object|
-|--------|:--------:|:--------:|--------:|
-|Active sentence:|Paul|builds|a house.|
-|Passive sentence:|A house|is built|by Paul.|
-
-Past Simple:
-
-|Type of sentence|Subject|Verb|Object|
-|--------|:--------:|:--------:|--------:|
-|Active sentence:|James|made|a film.|
-|Passive sentence:|A film|was made|by James.|
-
-Present Perfect:
-
-|Type of sentence|Subject|Verb|Object|
-|--------|:--------:|:--------:|--------:|
-|Active sentence:|Peter|has written|a book.|
-|Passive sentence:|A book|has been written|by Peter.|
-
-### When do we use the passive voice?
-The passive voice is more formal than the active, and it is more common in written language. We often use the passive when we don't know, when it is obvious, or when we don't want to say who or what is responsible for the action.
-
->A bank **was robbed** yesterday. (Who robbed the bank? Idk)
-
->The robber **was arrested** last night. (It's the same robber, so it's obvious.)
-
->I was told that you insulted my brother. (If I tell you who told me, they're going to get in trouble.)
-
->Jurassic Park **was filmed** by Spielberg in 1993 (I'm talking about the movie, not about Spielberg)
-
-### Passive voice + by
-
-we can use **by** to say who or what is responsible of the action.
-
->The painting was bought **by a very rich guy**.
-
->Tetris was made **by Aleksei Pazintov**
-
-<iframe style="max-width:100%" src="https://wordwall.net/es/embed/07b4020562724abb84d204625ed511e5?themeId=1&templateId=5&fontStackId=0" width="500" height="380" frameborder="0" allowfullscreen></iframe>
+<iframe style="max-width:100%" src="https://wordwall.net/es/embed/07b4020562724abb84d204625ed511e5?themeId=1&templateId=5&fontStackId=0" width="500" height="380" frameborder="0" allowfullscreen></iframe>

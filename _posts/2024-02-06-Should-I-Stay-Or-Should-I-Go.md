@@ -19,66 +19,49 @@ Are people in the capital city very different from people in the rest of the cou
 
 ---
 
-### Practical English - At the pharmacy.
+### Practical English: At the Pharmacy
+Vocabulary for when you feel under the weather:
 
-I’ll just spit out some vocabulary you might use when going to a pharmacy, or talking about sickness. 
-
-
-I feel ill. | Me siento enfermo.
-
-I have a headache. | Tengo dolor de cabeza.
-
-I have a cough. | Tengo tos.  
-
-I have a flu. | Tengo gripe.
-
-I have a temperature/fever. | Tengo temperatura/fiebre
-
-I have a bad stomach. | Tengo dolor de panza.
-
-I have a stomach ache. | Tengo dolor de panza.
-
-I have a cold. | Tengo un resfrío.
+| English | Español |
+| :--- | :--- |
+| I feel ill. | Me siento enfermo. |
+| I have a headache. | Tengo dolor de cabeza. |
+| I have a cough. | Tengo tos. |
+| I have a flu. | Tengo gripe. |
+| I have a temperature/fever. | Tengo temperatura/fiebre. |
+| I have a stomach ache. | Tengo dolor de panza. |
+| I have a cold. | Tengo un resfrío. |
 
 ---
 
-Should is used for multiple things, but the most common is:
+### Using "Should" for Advice
 
-<span style="text-decoration:underline;">Giving Advice:</span> We can use **Should** to give advice and make suggestions to do something or express that something is a good idea.
+We use **Should** to give advice, make suggestions, or express that something is a good idea.
 
+<div class="grammar-box" markdown="1">
+#### 1. Giving Advice (Present/Future)
+<span class="formula">Subject + should/shouldn't + Verb (Infinitive)</span>
+*   *You **should** try this dessert, it’s delicious!*
+*   *This dessert is too sweet, you **shouldn’t** eat it.*
+</div>
 
+<div class="grammar-box" markdown="1">
+#### 2. Regrets & Past Advice
+<span class="formula">Subject + should/shouldn't + have + Past Participle</span>
+*   *We **shouldn’t have drunk** coffee before going to bed.* (Now we can't sleep!)
+</div>
 
-* You should try this dessert, it’s so delicious! 
+> [!NOTE]
+> **Ought to**: You can use *ought to* instead of *should*. It’s more formal but has the same meaning.
+> - *You **ought to** study harder.*
 
-We can use **Shouldn’t**, which is the contraction of _should + not_, to give advice and make suggestions not to do something or express that something is a bad idea.
+---
 
-
-
-* This dessert is too sweet, you shouldn’t even try it, or else you’re gonna pall. 
-
-_(Small tangent, “Pall” means “Empalagar”, and “Gonna” is a contraction of “Going to”, used in spoken english, there are a bunch like this one, “Wanna” is “Want to”, “Gotta” is “Going to”, “Ain’t” is “be or have not”)_
-
-We can use **Should + Have + Past Participle** to make suggestions about something that has already happened in the past.
-
-
-
-* We Shouldn’t have drunk coffee before going to bed.
-
-Obligation: We can use **should** in the meaning of _be supposed to_ or _be expected to_ to give orders or advice but not in a strong way.
-
-
-
-* You should study harder.
-
-Note: We can use ought to/ought not to instead of should/shouldn’t. There is no difference between them, although ought to is less common and more formal than should.
-
-
-
-* You ought to study harder.
+## Exercises
 
 <iframe src="https://justneki.com/EnglishClassesExercises/Should-FTB-1.html" width="100%" height="600" frameborder="0"></iframe>
 
+### The Verb "Get"
+**Get** is one of the most common verbs in English because it has many meanings and phrasal verbs.
 
-Get is one of the most common verbs in English, mainly because it has many different meanings and there are also many phrasal verbs with get.
-
-<iframe src="https://justneki.com/EnglishClassesExercises/Should-FTB-2.html" width="100%" height="600" frameborder="0"></iframe>
+<iframe src="https://justneki.com/EnglishClassesExercises/Should-FTB-2.html" width="100%" height="600" frameborder="0"></iframe>
