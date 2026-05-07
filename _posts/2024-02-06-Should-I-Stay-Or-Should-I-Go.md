@@ -63,9 +63,9 @@ We use **Should** to give advice, make suggestions, or express that something is
 
 ## Exercises
 
-<iframe title="Should FTB 1" loading="lazy" src="https://justneki.com/EnglishClassesExercises/Should-FTB-1.html" width="100%" height="600" frameborder="0"></iframe>
+<div class="iframe-wrapper"><div class="iframe-loader"></div><iframe title="Should FTB 1" loading="lazy" src="https://justneki.com/EnglishClassesExercises/Should-FTB-1.html" width="100%" height="600" frameborder="0"></iframe></div>
 
 ### The Verb "Get"
 **Get** is one of the most common verbs in English because it has many meanings and phrasal verbs.
 
-<iframe title="Should FTB 2" loading="lazy" src="https://justneki.com/EnglishClassesExercises/Should-FTB-2.html" width="100%" height="600" frameborder="0"></iframe>
+<div class="iframe-wrapper"><div class="iframe-loader"></div><iframe title="Should FTB 2" loading="lazy" src="https://justneki.com/EnglishClassesExercises/Should-FTB-2.html" width="100%" height="600" frameborder="0"></iframe></div>

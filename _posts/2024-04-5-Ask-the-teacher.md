@@ -34,6 +34,6 @@ Question: Did + Subject + use to + verb?
 >Tip:
 > "Get used to" has another meaning, it means to familiarize or adapt to something.
 
-<iframe title="Interactive Exercise" loading="lazy" style="max-width:100%" src="https://wordwall.net/es/embed/ad326d24d5474c96a01171019244bd1d?themeId=44&templateId=5&fontStackId=1" width="500" height="380" frameborder="0" allowfullscreen></iframe>  
+<div class="iframe-wrapper"><div class="iframe-loader"></div><iframe title="Interactive Exercise" loading="lazy" style="max-width:100%" src="https://wordwall.net/es/embed/ad326d24d5474c96a01171019244bd1d?themeId=44&templateId=5&fontStackId=1" width="500" height="380" frameborder="0" allowfullscreen></iframe></div>  
 
-<iframe title="Interactive Exercise" loading="lazy" style="max-width:100%" src="https://wordwall.net/embed/fafc8429c3134f719b78988a07a3eb23?themeId=42&templateId=70&fontStackId=0" width="500" height="380" frameborder="0" allowfullscreen></iframe>
+<div class="iframe-wrapper"><div class="iframe-loader"></div><iframe title="Interactive Exercise" loading="lazy" style="max-width:100%" src="https://wordwall.net/embed/fafc8429c3134f719b78988a07a3eb23?themeId=42&templateId=70&fontStackId=0" width="500" height="380" frameborder="0" allowfullscreen></iframe></div>

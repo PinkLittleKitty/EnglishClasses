@@ -60,4 +60,4 @@ These auxiliaries are used to talk about the future, make promises, and offer su
 
 ## Exercises
 
-<iframe title="Think Positive or Negative FTB 1" loading="lazy" src="https://justneki.com/EnglishClassesExercises/Think-Positive-or-Negative-FTB-1.html" width="100%" height="600" frameborder="0"></iframe>
+<div class="iframe-wrapper"><div class="iframe-loader"></div><iframe title="Think Positive or Negative FTB 1" loading="lazy" src="https://justneki.com/EnglishClassesExercises/Think-Positive-or-Negative-FTB-1.html" width="100%" height="600" frameborder="0"></iframe></div>

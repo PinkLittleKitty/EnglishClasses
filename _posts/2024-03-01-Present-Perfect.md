@@ -114,6 +114,6 @@ Used for a state that started in the **past** and continues in the **present**. 
 
 ## Exercises
 
-<iframe title="Present Perfect MC" loading="lazy" src="https://justneki.com/EnglishClassesExercises/Present-Perfect-MC.html" width="100%" height="600" frameborder="0"></iframe>
-<iframe title="Present Perfect FTB" loading="lazy" src="https://justneki.com/EnglishClassesExercises/Present-Perfect-FTB.html" width="100%" height="600" frameborder="0"></iframe>
+<div class="iframe-wrapper"><div class="iframe-loader"></div><iframe title="Present Perfect MC" loading="lazy" src="https://justneki.com/EnglishClassesExercises/Present-Perfect-MC.html" width="100%" height="600" frameborder="0"></iframe></div>
+<div class="iframe-wrapper"><div class="iframe-loader"></div><iframe title="Present Perfect FTB" loading="lazy" src="https://justneki.com/EnglishClassesExercises/Present-Perfect-FTB.html" width="100%" height="600" frameborder="0"></iframe></div>
 th="100%" height="600" frameborder="0"></iframe>

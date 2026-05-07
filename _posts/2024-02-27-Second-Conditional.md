@@ -62,9 +62,9 @@ We also use the second conditional to make very polite requests. For example:
 
 ## Exercises
 
-<iframe title="Second Conditional FTB 1" loading="lazy" src="https://justneki.com/EnglishClassesExercises/Second-Conditional-FTB-1.html" width="100%" height="600" frameborder="0"></iframe>
+<div class="iframe-wrapper"><div class="iframe-loader"></div><iframe title="Second Conditional FTB 1" loading="lazy" src="https://justneki.com/EnglishClassesExercises/Second-Conditional-FTB-1.html" width="100%" height="600" frameborder="0"></iframe></div>
 
-<iframe title="Second Conditional FTB 2" loading="lazy" src="https://justneki.com/EnglishClassesExercises/Second-Conditional-FTB-2.html" width="100%" height="600" frameborder="0"></iframe>
+<div class="iframe-wrapper"><div class="iframe-loader"></div><iframe title="Second Conditional FTB 2" loading="lazy" src="https://justneki.com/EnglishClassesExercises/Second-Conditional-FTB-2.html" width="100%" height="600" frameborder="0"></iframe></div>
 
 ---
 
